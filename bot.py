@@ -111,4 +111,4 @@ async def on_message(message):
 	if msg.find('не видно') != -1 or msg.find('не вижу') != -1:
 		await message.channel.send("всё видно ,я хорошо пoказываю")
 	
-Bot.run("NjgwMDgyMTQ1NjQ5MjI5OTM0.Xk6uTg.QpzIZfXGFINK6JcHMJJbxg0WBhk")
+Bot.run("NjgwMDgyMTQ1NjQ5MjI5OTM0.Xk6t2g.wQ_n0dyRM2vd58moQHI38Mgbf80")
